@@ -1,0 +1,4 @@
+ContinentID,GeographyType, ContinentName
+1,Continent,Asia
+2,Continent,Europe
+3,Continent,North America
